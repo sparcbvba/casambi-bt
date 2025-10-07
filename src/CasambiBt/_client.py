@@ -41,7 +41,7 @@ class IncommingPacketType(IntEnum):
 
 
 MIN_VERSION: Final[int] = 10
-MAX_VERSION: Final[int] = 10
+MAX_VERSION: Final[int] = 11
 
 
 class CasambiClient:
